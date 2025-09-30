@@ -1,0 +1,1 @@
+This NLP model was made to predict spaces on russian texts. Model based on BiLSTM and train on Kaggle's 2 GPU T4. Dataset made by generate_train.py script by using open-datasets from Kaggle and Hugging Face.
